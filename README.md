@@ -1,3 +1,5 @@
+https://karinakit.github.io/-Landing/
+
 AURA — Minimalist Landing Page
 
 
@@ -45,4 +47,7 @@ Mobile Landscape (632px, 570px, 520px)
 
 Mobile Portrait (480px, 320px)
 
-https://karinakit.github.io/-Landing/
+
+<img width="1434" height="778" alt="image" src="https://github.com/user-attachments/assets/14861c6d-f9b9-4dfe-ab3c-0e2083b5f187"/>
+<img width="318" height="661" alt="image" src="https://github.com/user-attachments/assets/3287e276-dd4b-4bfa-93df-c70ff610002d"/>
+

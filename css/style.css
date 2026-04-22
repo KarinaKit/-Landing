@@ -39,7 +39,7 @@ body {
 
 .header__text {
     margin: 0;
-    margin-right: 140px;
+    margin-right: 200px;
     font-weight: 500;
     font-size: xx-large;
     color: rgb(92, 98, 87);
@@ -167,6 +167,46 @@ body {
 
 .text {
     color: rgb(86, 87, 81);
+}
+
+
+/* =================1024px - 1200px================= */
+
+@media screen and (min-width: 1024px) and (max-width: 1200px) {
+  body {
+    padding: 80px 60px;
+  }
+
+  .continer {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px;
+  }
+
+  .header__text {
+    margin-right: auto;
+    font-size: 32px;
+  }
+
+  .item__link {
+    gap: 20px;
+  }
+
+  .content__title {
+    font-size: 42px;
+    white-space: normal;
+    width: 80%;
+  }
+
+  .content__text {
+    font-size: 18px;
+    max-width: 550px;
+    white-space: normal;
+  }
+
+  .content__item {
+    gap: 35px;
+  }
 }
 
 /* =================952px================= */

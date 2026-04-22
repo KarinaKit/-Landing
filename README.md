@@ -1,0 +1,56 @@
+https://karinakit.github.io/-Landing/
+
+AURA — Minimalist Landing Page
+
+
+Стильный и современный лендинг для презентации продукта, выполненный в эстетике минимализма. Проект ориентирован на чистоту линий, премиальную типографику и удобство пользователя на любых устройствах.
+
+
+🌟 Особенности проекта
+
+
+Полная адаптивность: Сайт корректно отображается на всех типах экранов — от широкоформатных мониторов до смартфонов (включая детальную настройку под iPhone 14 Pro и экраны шириной 320px).
+
+
+Интерактивность:
+
+Реализованы плавные переходы (transition) для всех интерактивных элементов.
+
+
+Состояния кнопок: 
+
+Настроено изменение цвета и стиля при наведении (hover) и визуальный отклик при нажатии (active).
+
+Pixel Perfect Typography: Тщательная работа с иерархией заголовков и текстовых блоков для обеспечения максимальной читаемости.
+
+
+🛠 Технологии
+
+HTML5 — семантическая верстка.
+
+CSS3 — Flexbox для построения сеток, Media Queries для адаптивности.
+
+Normalize.css — для обеспечения идентичного отображения во всех браузерах.
+
+
+📱 Адаптивная сетка
+
+Проект включает в себя 7 уровней адаптивности (breakpoints):
+
+Desktop (> 952px)
+
+Small Laptop (952px, 920px)
+
+Tablet (780px)
+
+Mobile Landscape (632px, 570px, 520px)
+
+Mobile Portrait (480px, 320px)
+
+
+<img width="1434" height="778" alt="image" src="https://github.com/user-attachments/assets/14861c6d-f9b9-4dfe-ab3c-0e2083b5f187"/>
+<img width="318" height="661" alt="image" src="https://github.com/user-attachments/assets/3287e276-dd4b-4bfa-93df-c70ff610002d"/>
+<img width="478" height="767" alt="image" src="https://github.com/user-attachments/assets/88dfe2db-4baa-45f2-83de-3b570eec3305"/>
+<img width="620" height="602" alt="image" src="https://github.com/user-attachments/assets/5e6ddd45-2a25-4f83-a058-028c2559064b"/>
+
+

@@ -50,4 +50,7 @@ Mobile Portrait (480px, 320px)
 
 <img width="1434" height="778" alt="image" src="https://github.com/user-attachments/assets/14861c6d-f9b9-4dfe-ab3c-0e2083b5f187"/>
 <img width="318" height="661" alt="image" src="https://github.com/user-attachments/assets/3287e276-dd4b-4bfa-93df-c70ff610002d"/>
+<img width="478" height="767" alt="image" src="https://github.com/user-attachments/assets/88dfe2db-4baa-45f2-83de-3b570eec3305"/>
+<img width="620" height="602" alt="image" src="https://github.com/user-attachments/assets/5e6ddd45-2a25-4f83-a058-028c2559064b"/>
+
 
